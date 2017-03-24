@@ -1,0 +1,1 @@
+Creating a Reddit-like site with rails. Following The Odin Project to build it.
